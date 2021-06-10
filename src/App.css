@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    
+    input {
+        display: flex;
+    }
+    
+    .AddButton {
+        margin-right: 95%;
+    }
+
+    .Navbar.Brand{
+       display: inline;
+   }
+   .card-img{
+       height:8rem;
+       width:8rem;
+       margin-left:2rem;
+       margin-top: 1rem;
+       
+   }
